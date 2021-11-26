@@ -1,0 +1,65 @@
+   #God{
+     display: none;
+   }
+
+   ul {
+     list-style: none;
+     margin: 0;
+     padding: 0;
+     background-color: rgb(38, 38, 190);
+     color: white;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: large;
+     font-weight: 900;
+     text-align: center;
+     word-spacing: 90%;
+     
+    
+       }
+  
+#nav {
+    display: inline;
+    padding-left: 3%;
+  }
+
+   #login9 {
+    margin: 0;
+    padding: 0;
+    background-color: #FF6F61;
+   }
+
+   #login {
+     text-align: left;
+     background-color: #92A8D1;
+     margin-left: 30%;
+     margin-right: 30%;
+     color: black;
+     font-family: sans-serif;
+   }
+
+   .form-label {
+     margin-left: 3%;
+     font-weight: 900;
+   }
+
+   #button {
+    margin-left: 3%;
+    margin-bottom: 3%;
+   }
+
+   h2 {
+    padding-top: 2%;
+     text-align: center ;
+   }
+
+   a {
+     color: inherit;
+   }
+
+   #list{
+     padding-left: 3%;
+     color: black;
+     list-style-type: none;
+   }
+
+  
